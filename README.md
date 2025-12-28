@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arshat Ali</h1>
-<h3 align="center">Odoo Developer | Python Engineer | ERP Customization Specialist</h3>
+<h3 align="center">Engineer | Odoo Developer | Python | Networking Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Odoo+Developer+%7C+Python;Custom+Modules+%7C+POS+%7C+Reports;APIs+%7C+Integrations+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Engineer+%7C+Odoo+Developer;Python+%7C+ERP+Customizations;Networking+Enthusiast+%7C+Automation" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔹 Specialized in **Odoo Community & Enterprise (11 → 18)**
-- 🔹 Strong in **Python, OWL, PostgreSQL & QWeb**
-- 🔹 Experienced in **POS, Accounting & HR customizations**
-- 🔹 Building **scalable ERP solutions** for real-world businesses
+- 🔹 Engineer working on **Odoo Community & Enterprise (11 → 18)**
+- 🔹 Comfortable with **Python**, OWL, PostgreSQL & QWeb
+- 🔹 Hands-on with **POS, Accounting & HR** customizations
+- 🔹 Interested in **Networking concepts, systems & automation**
 
 ---
 
@@ -21,17 +21,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/XML-QWeb-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XML%20%2F%20QWeb-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ### ⚙️ What I Work On
-- 🔧 Odoo Custom Modules & Workflows  
-- 🧾 Reports (QWeb & XLSX)  
+- 🔧 Odoo Custom Modules & Business Logic  
+- 🧾 QWeb & XLSX Reports  
 - 🛒 POS Customizations  
-- 🔗 WhatsApp, Google, REST API Integrations  
-- 🚀 Performance & Automation
+- 🔗 API & WhatsApp Integrations  
+- 🌐 ERP + Networking + Automation
 
 ---
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect
 <p>
   <a href="https://github.com/arshat-81">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
