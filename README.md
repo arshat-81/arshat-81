@@ -2,7 +2,7 @@
 <h3 align="center">Odoo Developer | Python Engineer | ERP Customization Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Odoo+Developer+%7C+Python+Expert;Custom+Modules+%7C+POS+%7C+Reports;APIs+%7C+Integrations+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Odoo+Developer+%7C+Python;Custom+Modules+%7C+POS+%7C+Reports;APIs+%7C+Integrations+%7C+Automation" />
 </p>
 
 ---
