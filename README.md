@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arshat Ali</h1>
-<h3 align="center">Engineer | Odoo Developer | Python | Networking Enthusiast</h3>
+<h3 align="center">Odoo Developer | Python | Networking Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Engineer+%7C+Odoo+Developer;Python+%7C+ERP+Customizations;Networking+Enthusiast+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+Developer+%7C+ERP+Customizations;Python+%7C+Automation;Networking+Enthusiast" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔹 Engineer working on **Odoo Community & Enterprise (11 → 18)**
-- 🔹 Comfortable with **Python**, OWL, PostgreSQL & QWeb
-- 🔹 Hands-on with **POS, Accounting & HR** customizations
-- 🔹 Interested in **Networking concepts, systems & automation**
+- 🔹 Working with **Odoo Community & Enterprise (11 → 18)**
+- 🔹 Using **Python** for backend logic & automation
+- 🔹 Experienced in **POS, Accounting & HR** customizations
+- 🔹 Curious about **Networking, systems & infrastructure**
 
 ---
 
@@ -28,11 +28,11 @@
 ---
 
 ### ⚙️ What I Work On
-- 🔧 Odoo Custom Modules & Business Logic  
+- 🔧 Odoo Custom Modules & Workflows  
 - 🧾 QWeb & XLSX Reports  
 - 🛒 POS Customizations  
 - 🔗 API & WhatsApp Integrations  
-- 🌐 ERP + Networking + Automation
+- 🌐 ERP Automation & Networking Concepts
 
 ---
 
@@ -43,9 +43,12 @@
 
 ---
 
-### 🤝 Connect
+### 🤝 Connect With Me
 <p>
   <a href="https://github.com/arshat-81">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://twitter.com/ArshatAli5">
+    <img src="https://img.shields.io/badge/Twitter%20%28X%29-000?style=for-the-badge&logo=x"/>
   </a>
 </p>
