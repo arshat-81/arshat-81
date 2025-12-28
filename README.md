@@ -1,63 +1,74 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Arshat Ali</h1>
+<h3 align="center">Odoo Developer | Python | Networking Enthusiast</h3>
 
-## 👋 Hi, I'm Arshat Ali
-
-**Odoo Developer · Python · Networking Enthusiast**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&lines=Odoo+ERP+Customizations;Python+Automation;Networking+Enthusiast" />
-
-</div>
-
----
-
-## 📄 Resume 
-<a href="https://github.com/arshat-81/arshat-81/raw/main/resume/resume.pdf"> 
-<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/> 
-</a>
-
-
-## 🧠 About
-I work primarily with **Odoo Community & Enterprise (11 → 18)**, focusing on building reliable ERP customizations for real business use cases.
-
-- Backend logic & automation using **Python**
-- Deep experience in **POS, Accounting & HR**
-- Comfortable with **OWL, PostgreSQL & QWeb**
-- Strong interest in **Networking & systems**
-
----
-
-## 🧩 Core Skills
-| Area | Tools & Tech |
-|-----|-------------|
-| ERP | Odoo (Community & Enterprise) |
-| Backend | Python |
-| Frontend | JavaScript (OWL), XML / QWeb |
-| Database | PostgreSQL |
-| Others | POS, Reports, API Integrations |
-| Interests | Networking & Infrastructure |
-
----
-
-## ⚙️ What I Build
-- Custom **Odoo modules & workflows**
-- **POS** enhancements & validations
-- **QWeb / XLSX** reports
-- **WhatsApp & REST API** integrations
-- ERP automation with system awareness
-
----
-
-## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshat-81&theme=github_dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+Developer+%7C+ERP+Customizations;Python+%7C+Automation;Networking+Enthusiast" />
 </p>
 
 ---
 
-## 🤝 Connect
+### 🧠 About Me
+- 🔹 Working with **Odoo Community & Enterprise (11 → 18)**
+- 🔹 Using **Python** for backend logic & automation
+- 🔹 Experienced in **POS, Accounting & HR** customizations
+- 🔹 Curious about **Networking, systems & infrastructure**
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Odoo-6F2DA8?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XML%20%2F%20QWeb-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ What I Work On
+- 🔧 Odoo Custom Modules & Workflows  
+- 🧾 QWeb & XLSX Reports  
+- 🛒 POS Customizations  
+- 🔗 API & WhatsApp Integrations  
+- 🌐 ERP Automation & Networking Concepts
+
+---
+
+### 📄 Resume
 <p align="center">
-  <a href="https://github.com/arshat-81">GitHub</a> ·
-  <a href="https://twitter.com/ArshatAli5">Twitter</a> ·
-  <a href="https://www.linkedin.com/in/arshat-ali/">LinkedIn</a> ·
-  <a href="https://discord.com/users/761956568677482516">Discord</a>
+  <a href="https://github.com/arshat-81/arshat-81/raw/main/resume/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/arshat-81/arshat-81/raw/main/resume/resume.pdf">
+    <b>👉 View / Download Resume (PDF)</b>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshat-81&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=en&cache_seconds=1800" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p>
+  <a href="https://github.com/arshat-81">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://twitter.com/ArshatAli5">
+    <img src="https://img.shields.io/badge/Twitter%20%28X%29-000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arshat-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/761956568677482516">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
