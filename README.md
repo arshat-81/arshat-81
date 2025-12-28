@@ -52,4 +52,7 @@
   <a href="https://twitter.com/ArshatAli5">
     <img src="https://img.shields.io/badge/Twitter%20%28X%29-000?style=for-the-badge&logo=x"/>
   </a>
+  <a href="https://www.linkedin.com/in/arshat-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
