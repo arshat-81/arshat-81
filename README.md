@@ -42,11 +42,7 @@
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/arshat-81/arshat-81/raw/main/resume/resume.pdf">
-    <b>👉 View / Download Resume (PDF)</b>
-  </a>
-</p>
+
 
 ---
 
