@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DA8,100:0A66C2&height=190&section=header&text=Arshat%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Odoo%20Developer%20%7C%20eCommerce%20Integrations%20%7C%20Discord%20Apps%20%7C%20Networking&descAlignY=58&descSize=16" alt="Arshat Ali profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DA8,45:7AB55C,100:0A66C2&height=215&section=header&text=Arshat%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Odoo%20Commerce%20%26%20Operations%20Automation&descAlignY=57&descSize=18" alt="Arshat Ali profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=6F2DA8&center=true&vCenter=true&width=780&lines=Building+Odoo+apps+that+fit+real+business+workflows;Integrating+Shopify+and+Google+Merchant+Center+with+Odoo;Customizing+POS%2C+Accounting%2C+HR+and+Reports;Building+Discord+apps%2C+bots+and+moderation+tools;Automating+ERP+operations+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=6F2DA8&center=true&vCenter=true&width=850&lines=Odoo+custom+modules+for+real+business+workflows;Shopify+%2B+Google+Merchant+Center+integrations;Support%2C+SMS%2C+QA+and+legacy+import+modules;Discord+apps+and+backend+automation;Python+%7C+PostgreSQL+%7C+XML+%2F+QWeb" alt="Typing SVG" />
 
 <br/>
 
@@ -23,6 +23,7 @@
 </a>
 
 <br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=arshat-81&label=Profile%20views&color=6F2DA8&style=flat" alt="Profile views" />
 
@@ -30,50 +31,46 @@
 
 ---
 
-## 🧠 About Me
+## 🧭 Profile Snapshot
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
+
+<h3>Odoo Developer focused on practical ERP workflows</h3>
 
 <p>
   I build, customize, and automate ERP workflows with <strong>Odoo</strong>, <strong>Python</strong>, and <strong>PostgreSQL</strong>.
-  My work is mostly around turning business requirements into practical modules, reports, integrations, and backend logic that people can actually use every day.
+  My work is mainly around turning business requirements into modules, reports, integrations, and backend logic that teams can use every day.
 </p>
 
 <ul>
-  <li>🔹 Working with <strong>Odoo Community & Enterprise (11 → 18)</strong></li>
-  <li>🔹 Strong focus on <strong>POS, Accounting, HR, QWeb, XLSX reports</strong></li>
-  <li>🔹 Worked on <strong>Shopify</strong> and <strong>Google Merchant Center</strong> integrations for Odoo</li>
-  <li>🔹 Custom-built Odoo modules for <strong>support tickets, SMS, quality checks, and legacy imports</strong></li>
-  <li>🔹 Building backend logic, scheduled actions, APIs, and automation tools</li>
-  <li>🔹 Creating <strong>Discord apps, bots, and server workflow utilities</strong></li>
-  <li>🔹 Interested in <strong>networking, Linux systems, and infrastructure</strong></li>
+  <li>Working with <strong>Odoo Community & Enterprise (11 → 19)</strong></li>
+  <li>Focused on <strong>POS, Accounting, HR, QWeb, XLSX reports</strong></li>
+  <li>Worked on <strong>Shopify</strong> and <strong>Google Merchant Center</strong> integrations for Odoo</li>
+  <li>Custom-built modules for <strong>support tickets, SMS, quality checks, and legacy imports</strong></li>
+  <li>Building <strong>Discord apps, bots, and server workflow utilities</strong></li>
+  <li>Interested in <strong>networking, Linux systems, and infrastructure</strong></li>
 </ul>
 
 </td>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
-<pre><code class="language-yaml">
-name: Arshat Ali
-role: Odoo Developer
-core_stack:
-  - Python
-  - Odoo
-  - PostgreSQL
-  - XML / QWeb
-  - JavaScript
-  - Shopify APIs
-  - Google Merchant Center
-  - Discord Apps
-current_focus:
-  - ERP customizations
-  - eCommerce integrations
-  - Custom business modules
-  - POS workflows
-  - Legacy data imports
-  - Reports and integrations
-  - Discord bots and moderation tools
+<pre><code class="language-yaml">profile:
+  name: Arshat Ali
+  role: Odoo Developer
+  focus:
+    - ERP customizations
+    - eCommerce integrations
+    - Custom business modules
+    - Legacy data imports
+    - Discord automation
+  stack:
+    - Python
+    - Odoo
+    - PostgreSQL
+    - XML / QWeb
+    - JavaScript
 </code></pre>
 
 </td>
@@ -82,15 +79,40 @@ current_focus:
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Build Lanes
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<h3>🧩 ERP Core</h3>
+<p>Models, views, access rules, workflow logic, scheduled actions, reports, and backend automation.</p>
+</td>
+<td width="25%" valign="top">
+<h3>🛍️ Commerce Sync</h3>
+<p>Shopify orders/products, Google Merchant publishing, dashboards, webhooks, and cron-based sync.</p>
+</td>
+<td width="25%" valign="top">
+<h3>🏗️ Business Modules</h3>
+<p>Support tickets, SMS templates, quality assurance flows, import wizards, and operational tools.</p>
+</td>
+<td width="25%" valign="top">
+<h3>🤖 Automation Apps</h3>
+<p>Discord bots, moderation utilities, API workflows, and lightweight tools around backend services.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Toolbelt
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Odoo-6F2DA8?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/XML%20%2F%20QWeb-FF7A00?style=for-the-badge&logo=xml&logoColor=white" alt="XML and QWeb" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Google%20Merchant%20Center-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Merchant Center" />
 <img src="https://img.shields.io/badge/Helpdesk-00A3A3?style=for-the-badge&logo=zendesk&logoColor=white" alt="Helpdesk" />
@@ -104,47 +126,30 @@ current_focus:
 
 ---
 
-## ⚙️ Odoo Workbench
+## 🧱 Selected Odoo Work
+
+| Area | Module / Work | What it handles |
+| --- | --- | --- |
+| Commerce | `shopify_ept` | Shopify GraphQL order/product sync, dashboards, webhooks, multi-store setup, cron jobs, and order workflows |
+| Commerce | `google_merchant_integration` | Google Merchant Center publish/unpublish, Shopify variant sync, OAuth2, product dashboard, and scheduled re-publishing |
+| Support | `website_support` | Website helpdesk, support tickets, categories, states, email templates, SLAs, and portal-facing flows |
+| Messaging | `send_sms` | SMS sending flow with templates and contact-aware defaults |
+| Inventory | `quality_assurance` | Quality measures, quality alerts, tests, and stock workflow links |
+| Migration | `legacy_so_import_v19` | Odoo 11 to Odoo 19 sale order chain import wizard |
+| Operations | Reports and workflows | QWeb reports, XLSX exports, accounting/POS/HR customizations, API integrations, and automation scripts |
+
+---
+
+## 🧪 Workbench
 
 <details open>
 <summary><b>🧩 Custom Modules & ERP Logic</b></summary>
 <br/>
 
-- Models, fields, views, menus, security groups, access rules
-- Business workflow automation with computed fields, constraints, and server actions
-- Odoo Community and Enterprise customizations across versions **11 → 18**
-- Custom module work from scratch when the workflow needs more than configuration
-
-</details>
-
-<details>
-<summary><b>🏗️ Custom-Built Odoo Modules</b></summary>
-<br/>
-
-- `website_support` — website helpdesk and support ticket workflows
-- `send_sms` — SMS sending flow with templates and contact-aware defaults
-- `quality_assurance` — quality measures, alerts, tests, and stock workflow links
-- `legacy_so_import_v19` — Odoo 11 to Odoo 19 sale order chain import wizard
-
-</details>
-
-<details>
-<summary><b>🧾 Reports, Accounting & Operations</b></summary>
-<br/>
-
-- QWeb PDF reports and XLSX exports
-- Accounting flow customizations, invoice logic, and business documents
-- HR, attendance, payroll-adjacent workflows, and operational dashboards
-
-</details>
-
-<details>
-<summary><b>🛒 POS, APIs & Integrations</b></summary>
-<br/>
-
-- POS screen, receipt, payment, and order-flow customizations
-- REST APIs, third-party services, and automation scripts
-- WhatsApp integrations and practical backend tools for daily ERP operations
+- Models, fields, views, menus, security groups, and access rules
+- Computed fields, constraints, server actions, cron jobs, and business workflow automation
+- Custom module work from scratch when configuration is not enough
+- Odoo Community and Enterprise customizations across versions **11 → 19**
 
 </details>
 
@@ -160,6 +165,16 @@ current_focus:
 </details>
 
 <details>
+<summary><b>🧾 Reports, Accounting & Operations</b></summary>
+<br/>
+
+- QWeb PDF reports and XLSX exports
+- Accounting flow customizations, invoice logic, and business documents
+- HR, attendance, purchase, sale, and operational dashboard work
+
+</details>
+
+<details>
 <summary><b>🤖 Discord Apps & Automation</b></summary>
 <br/>
 
@@ -171,24 +186,28 @@ current_focus:
 
 ---
 
-## 🧭 How I Think About Work
+## 🧠 Requirement → Build Shape
 
 <table align="center">
 <tr>
-<th>Requirement</th>
-<th>I Turn It Into</th>
+<th>When the work needs...</th>
+<th>I usually build...</th>
 </tr>
 <tr>
 <td>Repeated manual steps</td>
-<td>Python automation or scheduled jobs</td>
+<td>Python automation, scheduled jobs, or server actions</td>
 </tr>
 <tr>
 <td>Complex ERP process</td>
-<td>Clean Odoo workflow with clear permissions</td>
+<td>Odoo models, permissions, workflow states, and clear user views</td>
 </tr>
 <tr>
-<td>Business document</td>
-<td>QWeb PDF or XLSX report</td>
+<td>Business documents</td>
+<td>QWeb PDF reports or XLSX exports</td>
+</tr>
+<tr>
+<td>Commerce channel sync</td>
+<td>Shopify and Google Merchant Center connectors inside Odoo</td>
 </tr>
 <tr>
 <td>Support or QA workflow</td>
@@ -199,20 +218,8 @@ current_focus:
 <td>Import wizards and migration helpers for Odoo version upgrades</td>
 </tr>
 <tr>
-<td>External service</td>
-<td>API integration with reliable backend logic</td>
-</tr>
-<tr>
-<td>Commerce channel</td>
-<td>Shopify and Google Merchant Center connectors inside Odoo</td>
-</tr>
-<tr>
 <td>Discord server workflow</td>
 <td>Bot commands, moderation helpers, and app automation</td>
-</tr>
-<tr>
-<td>Infrastructure question</td>
-<td>Networking and system-level learning</td>
 </tr>
 </table>
 
@@ -238,7 +245,7 @@ current_focus:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -261,6 +268,6 @@ current_focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6F2DA8&height=100&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:7AB55C,100:6F2DA8&height=100&section=footer" alt="Footer wave" />
 
 </div>
