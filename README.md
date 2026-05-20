@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DA8,100:0A66C2&height=190&section=header&text=Arshat%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Odoo%20Developer%20%7C%20Python%20Automation%20%7C%20Networking%20Enthusiast&descAlignY=58&descSize=16" alt="Arshat Ali profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DA8,100:0A66C2&height=190&section=header&text=Arshat%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Odoo%20Developer%20%7C%20Python%20Automation%20%7C%20Discord%20Apps%20%7C%20Networking&descAlignY=58&descSize=16" alt="Arshat Ali profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=6F2DA8&center=true&vCenter=true&width=780&lines=Building+Odoo+apps+that+fit+real+business+workflows;Customizing+POS%2C+Accounting%2C+HR+and+Reports;Automating+ERP+operations+with+Python;Exploring+networks%2C+systems+and+infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=6F2DA8&center=true&vCenter=true&width=780&lines=Building+Odoo+apps+that+fit+real+business+workflows;Customizing+POS%2C+Accounting%2C+HR+and+Reports;Building+Discord+apps%2C+bots+and+moderation+tools;Automating+ERP+operations+with+Python;Exploring+networks%2C+systems+and+infrastructure" alt="Typing SVG" />
 
 <br/>
 
@@ -45,6 +45,7 @@
   <li>🔹 Working with <strong>Odoo Community & Enterprise (11 → 18)</strong></li>
   <li>🔹 Strong focus on <strong>POS, Accounting, HR, QWeb, XLSX reports</strong></li>
   <li>🔹 Building backend logic, scheduled actions, APIs, and automation tools</li>
+  <li>🔹 Creating <strong>Discord apps, bots, and server workflow utilities</strong></li>
   <li>🔹 Interested in <strong>networking, Linux systems, and infrastructure</strong></li>
 </ul>
 
@@ -60,10 +61,12 @@ core_stack:
   - PostgreSQL
   - XML / QWeb
   - JavaScript
+  - Discord Apps
 current_focus:
   - ERP customizations
   - POS workflows
   - Reports and integrations
+  - Discord bots and moderation tools
 </code></pre>
 
 </td>
@@ -81,6 +84,7 @@ current_focus:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/XML%20%2F%20QWeb-FF7A00?style=for-the-badge&logo=xml&logoColor=white" alt="XML and QWeb" />
+<img src="https://img.shields.io/badge/Discord%20Apps-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Apps" />
 <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
@@ -121,6 +125,16 @@ current_focus:
 
 </details>
 
+<details>
+<summary><b>🤖 Discord Apps & Automation</b></summary>
+<br/>
+
+- Discord bots and app workflows using Python
+- Moderation utilities, role flows, and server automation ideas
+- API-driven tools that connect community workflows with backend services
+
+</details>
+
 ---
 
 ## 🧭 How I Think About Work
@@ -145,6 +159,10 @@ current_focus:
 <tr>
 <td>External service</td>
 <td>API integration with reliable backend logic</td>
+</tr>
+<tr>
+<td>Discord server workflow</td>
+<td>Bot commands, moderation helpers, and app automation</td>
 </tr>
 <tr>
 <td>Infrastructure question</td>
