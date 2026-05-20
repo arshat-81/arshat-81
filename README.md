@@ -45,6 +45,7 @@
   <li>🔹 Working with <strong>Odoo Community & Enterprise (11 → 18)</strong></li>
   <li>🔹 Strong focus on <strong>POS, Accounting, HR, QWeb, XLSX reports</strong></li>
   <li>🔹 Worked on <strong>Shopify</strong> and <strong>Google Merchant Center</strong> integrations for Odoo</li>
+  <li>🔹 Custom-built Odoo modules for <strong>support tickets, SMS, quality checks, and legacy imports</strong></li>
   <li>🔹 Building backend logic, scheduled actions, APIs, and automation tools</li>
   <li>🔹 Creating <strong>Discord apps, bots, and server workflow utilities</strong></li>
   <li>🔹 Interested in <strong>networking, Linux systems, and infrastructure</strong></li>
@@ -68,7 +69,9 @@ core_stack:
 current_focus:
   - ERP customizations
   - eCommerce integrations
+  - Custom business modules
   - POS workflows
+  - Legacy data imports
   - Reports and integrations
   - Discord bots and moderation tools
 </code></pre>
@@ -90,6 +93,8 @@ current_focus:
 <img src="https://img.shields.io/badge/XML%20%2F%20QWeb-FF7A00?style=for-the-badge&logo=xml&logoColor=white" alt="XML and QWeb" />
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Google%20Merchant%20Center-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Merchant Center" />
+<img src="https://img.shields.io/badge/Helpdesk-00A3A3?style=for-the-badge&logo=zendesk&logoColor=white" alt="Helpdesk" />
+<img src="https://img.shields.io/badge/Data%20Migration-6C63FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Migration" />
 <img src="https://img.shields.io/badge/Discord%20Apps-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Apps" />
 <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -108,6 +113,18 @@ current_focus:
 - Models, fields, views, menus, security groups, access rules
 - Business workflow automation with computed fields, constraints, and server actions
 - Odoo Community and Enterprise customizations across versions **11 → 18**
+- Custom module work from scratch when the workflow needs more than configuration
+
+</details>
+
+<details>
+<summary><b>🏗️ Custom-Built Odoo Modules</b></summary>
+<br/>
+
+- `website_support` — website helpdesk and support ticket workflows
+- `send_sms` — SMS sending flow with templates and contact-aware defaults
+- `quality_assurance` — quality measures, alerts, tests, and stock workflow links
+- `legacy_so_import_v19` — Odoo 11 to Odoo 19 sale order chain import wizard
 
 </details>
 
@@ -172,6 +189,14 @@ current_focus:
 <tr>
 <td>Business document</td>
 <td>QWeb PDF or XLSX report</td>
+</tr>
+<tr>
+<td>Support or QA workflow</td>
+<td>Focused Odoo modules with forms, access rules, and process tracking</td>
+</tr>
+<tr>
+<td>Legacy ERP data</td>
+<td>Import wizards and migration helpers for Odoo version upgrades</td>
 </tr>
 <tr>
 <td>External service</td>
