@@ -1,0 +1,47 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arshat Ali profile banner</title>
+  <desc id="desc">Odoo Commerce and Operations Automation banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10151F"/>
+      <stop offset="0.46" stop-color="#15251E"/>
+      <stop offset="1" stop-color="#0B2744"/>
+    </linearGradient>
+    <linearGradient id="line" x1="164" y1="62" x2="1036" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6F2DA8"/>
+      <stop offset="0.5" stop-color="#7AB55C"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.435 0 0 0 0 0.176 0 0 0 0 0.659 0 0 0 0.38 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="28" fill="url(#bg)"/>
+  <path d="M0 203C145 155 232 166 351 199C501 241 592 243 734 188C899 124 1015 126 1200 182V260H0V203Z" fill="#0A66C2" opacity="0.22"/>
+  <path d="M0 178C168 117 286 128 424 162C569 198 691 204 837 151C981 99 1083 102 1200 135V260H0V178Z" fill="#7AB55C" opacity="0.18"/>
+  <path d="M0 210C133 172 257 174 391 206C556 245 689 237 842 188C985 142 1082 151 1200 191" stroke="url(#line)" stroke-width="5" opacity="0.85"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="168" cy="88" r="64" fill="#6F2DA8" opacity="0.35"/>
+    <circle cx="1010" cy="77" r="82" fill="#0A66C2" opacity="0.32"/>
+    <circle cx="780" cy="198" r="68" fill="#7AB55C" opacity="0.22"/>
+  </g>
+
+  <text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Arshat Ali</text>
+  <text x="600" y="130" text-anchor="middle" fill="#DDE8F1" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Odoo Commerce &amp; Operations Automation</text>
+  <text x="600" y="160" text-anchor="middle" fill="#9FB4C8" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.5">PYTHON  |  POSTGRESQL  |  XML / QWEB  |  SHOPIFY  |  GOOGLE MERCHANT</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect x="288" y="188" width="126" height="34" rx="17" fill="#6F2DA8"/>
+    <text x="351" y="210" text-anchor="middle" fill="#FFFFFF">Odoo ERP</text>
+    <rect x="430" y="188" width="142" height="34" rx="17" fill="#7AB55C"/>
+    <text x="501" y="210" text-anchor="middle" fill="#FFFFFF">Shopify Sync</text>
+    <rect x="588" y="188" width="168" height="34" rx="17" fill="#4285F4"/>
+    <text x="672" y="210" text-anchor="middle" fill="#FFFFFF">Merchant Center</text>
+    <rect x="772" y="188" width="140" height="34" rx="17" fill="#5865F2"/>
+    <text x="842" y="210" text-anchor="middle" fill="#FFFFFF">Discord Apps</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile footer wave</title>
+  <desc id="desc">Decorative footer wave for Arshat Ali profile README</desc>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A66C2"/>
+      <stop offset="0.48" stop-color="#7AB55C"/>
+      <stop offset="1" stop-color="#6F2DA8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="22" fill="#0D1117"/>
+  <path d="M0 50C143 18 243 20 372 49C517 82 632 84 782 48C935 12 1051 17 1200 45V110H0V50Z" fill="url(#wave)" opacity="0.88"/>
+  <path d="M0 72C160 43 290 44 430 70C575 97 705 96 845 67C998 34 1092 39 1200 61" stroke="#FFFFFF" stroke-width="3" opacity="0.18"/>
+</svg>

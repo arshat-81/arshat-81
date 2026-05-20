@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DA8,45:7AB55C,100:0A66C2&height=215&section=header&text=Arshat%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Odoo%20Commerce%20%26%20Operations%20Automation&descAlignY=57&descSize=18" alt="Arshat Ali profile banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Arshat Ali profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=6F2DA8&center=true&vCenter=true&width=850&lines=Odoo+custom+modules+for+real+business+workflows;Shopify+%2B+Google+Merchant+Center+integrations;Support%2C+SMS%2C+QA+and+legacy+import+modules;Discord+apps+and+backend+automation;Python+%7C+PostgreSQL+%7C+XML+%2F+QWeb" alt="Typing SVG" />
 
@@ -268,6 +268,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,45:7AB55C,100:6F2DA8&height=100&section=footer" alt="Footer wave" />
+<img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" />
 
 </div>
